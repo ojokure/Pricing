@@ -62,11 +62,4 @@ const StyleButton = styled.button`
   border-color: initial;
   border-image: initial;
   transition: all 0.1s ease-out 0s;
-
-  &:hover {
-    color: #4fad65;
-    padding-bottom: 0.3rem;
-    border-bottom: 2px solid #4fad65;
-    transition: ease-in 0.1s;
-  }
 `;
